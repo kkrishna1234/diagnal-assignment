@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_movie_title">8dp</dimen>
+    <dimen name="margin_end_movie_title">10dp</dimen>
+    <dimen name="width_image_movie">120dp</dimen>
+    <dimen name="height_image_movie">180dp</dimen>
+    <dimen name="margin_top_movie_item">30dp</dimen>
+    <dimen name="margin_start_movie_item">10dp</dimen>
+    <dimen name="padding_top_movies_recycler_view">12dp</dimen>
+    <dimen name="margin_start_movies_recycler_view">10dp</dimen>
+    <dimen name="margin_start_search">10dp</dimen>
+    <dimen name="margin_end_search">10dp</dimen>
+    <dimen name="padding_top_search_edit_text">10dp</dimen>
+    <dimen name="padding_bottom_search_edit_text">10dp</dimen>
+    <dimen name="height_search_divider">2dp</dimen>
+    <dimen name="padding_top_search_recycler_view">20dp</dimen>
+    <dimen name="padding_start_search_recycler_view">10dp</dimen>
+</resources>

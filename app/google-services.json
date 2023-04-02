@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339574506232",
+    "project_id": "diagnal-assignment-ee16a",
+    "storage_bucket": "diagnal-assignment-ee16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339574506232:android:252401bdd6d4d40ed4b10d",
+        "android_client_info": {
+          "package_name": "com.android.diagnalmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339574506232-a7q089jq30mqegc15itipnplr8v2ms29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAfWeUvP65ICvc3z45jc3WTUgRUOsWZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339574506232-a7q089jq30mqegc15itipnplr8v2ms29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
