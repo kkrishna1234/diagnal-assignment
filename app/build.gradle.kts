@@ -23,22 +23,9 @@ android {
     buildTypes {
         getByName("release") {
             isMinifyEnabled = true
-            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
-            )
-            buildConfigField(
-                "String",
-                "BASE_URL",
-                "\"https://storage.googleapis.com/carousell-interview-assets/android/\""
-            )
-        }
-        getByName("debug") {
-            buildConfigField(
-                "String",
-                "BASE_URL",
-                "\"https://storage.googleapis.com/carousell-interview-assets/android/\""
             )
         }
     }
